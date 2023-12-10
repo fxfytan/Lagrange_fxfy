@@ -1,19 +1,17 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: welcome to the mud cocoon
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Hi! I'm Felyx and/or Fayth, and I'm a science writer and recently-minted Caltech Ph.D. I did my thesis research into animal regeneration from an evolutionary-developmental perspective, or how animals make and re-make themselves. 
 
-### Getting Started
+My writing is typically about the stories we tell ourselves about science— how we construct them, who gets to tell them, how the socio-cultural zeigeist influences it, how humanity— our fears, anxieties, hopes and passions— inexorably bleeds into it. I won the [National Academy of Sciences Schmidt Prize for Excellence in Science Communication](https://www.schmidtfutures.com/national-academies-announce-inaugural-recipients-of-eric-and-wendy-schmidt-awards-for-excellence-in-science-communications-totaling-600000/) for [two](https://caltechletters.org/viewpoints/orchids-science-and-culture) [essays](https://www.thexylom.com/post/no-more-free-kelp-in-northern-californiahttps://www.thexylom.com/post/no-more-free-kelp-in-northern-california) in 2022. The rest of my writing can be found [here](https://fxfy.github.io/writing).
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+I'm **OPEN TO WORK** and currently freelancing, though I'd love to hear about any full-time science communication opportunities as well. 
 
-### Example Content
+### Evergreen interests:
+Weird animals and/or the weird things animals can do, obscure science history, neurodivergence and disability, social impacts of science and technology, environment and climate
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+### Other types of work:
+Scientific manuscript/grant editing, research, factchecking, data analysis
