@@ -4,7 +4,7 @@ title: "welcome!"
 author: "fxfy"
 categories: intro
 tags: [welcome, intro]
-image: lungfish.jpg
+image: Lungfish.png
 ---
 Science writer, biologist, estivating lungfish \
 fungalpals on twitter, bluesky, and mastodon (scicomm.xyz)
