@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "welcome!"
-author: "Fxfy"
+author: "fxfy"
 categories: intro
 tags: [welcome, intro]
+image: lungfish.jpg
 ---
 Science writer, biologist, estivating lungfish \
 fungalpals on twitter, bluesky, and mastodon (scicomm.xyz)
