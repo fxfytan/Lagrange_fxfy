@@ -5,7 +5,7 @@ permalink: /writing
 ---
 
 [Campus surveillance: students and professors decry sensors in buildings](https://www.nature.com/articles/d41586-023-03287-w)\
-_Nature Careers, Oct 2023._ Co-bylined with Anne Gulland. 
+_Nature Careers, Oct 2023._
 
 [UC San Diego’s expanded on-campus surveillance raises privacy and retaliation concerns](https://www.nasw.org/article/nasw-science-writers-education-committee-2023-perlman-program-fayth-tan)\
 _NASW Student Newsroom, Oct 2023._ 
@@ -31,8 +31,9 @@ _The Xylom, Oct 2021._ NAS Schmidt Prize winning submission.
 
 **shortform writing:**
 
-I'm also a regular contributor to [Oceanbites](https://oceanbites.org/author/ftan/), where I communicate current marine bio research at high-school level, often with many bad puns.
-Here are some selected pieces:
+Regular contributions to [Oceanbites](https://oceanbites.org/author/ftan/)— marine biology research communicated at a high school levels with very bad puns 
+
+Selected pieces:
 
 [Thinking out of the box](https://oceanbites.org/thinking-out-of-the-box/)
 Behavior and neuroscience: Learning in box jellyfish
