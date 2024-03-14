@@ -7,8 +7,8 @@ permalink: /writing
 [Campus surveillance: students and professors decry sensors in buildings](https://www.nature.com/articles/d41586-023-03287-w)\
 _Nature Careers, Oct 2023._ Co-bylined with Anne Gulland. 
 
-[UC San Diego’s expanded on-campus surveillance raises privacy and retaliation concerns](https://www.nasw.org/article/nasw-science-writers-education-committee-2023-perlman-program-fayth-tan)
-_NASW Student Newsroom, Oct 2023._ Written for NASW's Perlman mentoring program. 
+[UC San Diego’s expanded on-campus surveillance raises privacy and retaliation concerns](https://www.nasw.org/article/nasw-science-writers-education-committee-2023-perlman-program-fayth-tan)\
+_NASW Student Newsroom, Oct 2023._ 
 
 [I’m a Transgender Scientist and I See Myself in “Frankenstein”](https://electricliterature.com/im-a-transgender-scientist-and-i-see-myself-in-frankenstein/)\
 _Electric Literature, May 2023._ Selected for Both/And, a limited essay series for trans BIPOC.
