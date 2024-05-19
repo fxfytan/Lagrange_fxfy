@@ -3,6 +3,7 @@ layout: page
 title: Selected writing
 permalink: /writing
 ---
+Selected essays and journalistic work
 
 [Campus surveillance: students and professors decry sensors in buildings](https://www.nature.com/articles/d41586-023-03287-w)\
 _Nature Careers, Oct 2023._
@@ -16,15 +17,8 @@ _Electric Literature, May 2023._ Selected for Both/And, a limited essay series f
 [A life of the neurodivergent mind](https://sisterstem.org/2022/04/14/a-life-of-the-neurodivergent-mind/)\
 _SISTER STEM, April 2022._ 
 
-[How Do You Solve a Problem Like the Glia?](https://mailchi.mp/arcadia.science/how-do-you-solve-a-problem-like-the-glia)\
-_Arcadia Science newsletter feature, March 2022._
-
 [Femininity, Foreignness, and Flowers: How culture shapes scientific discovery](https://caltechletters.org/viewpoints/orchids-science-and-culture)\
 _Caltech Letters, Jan 2022._ NAS Schmidt Prize winning submission.
-
-[Actin, algae and answers in search of a question: a 
-perspective on emerging systems in biology](https://pdfhost.io/v/Kkj8SmY3b_Actin_algae_and_answers_in_search_of_a_question_Tan)\
-_Arcadia Science scicomm hackathon, Jan 2022._ Finalist submission.
 
 [No more free kelp in Northern California](https://www.thexylom.com/post/no-more-free-kelp-in-northern-california)\
 _The Xylom, Oct 2021._ NAS Schmidt Prize winning submission.
