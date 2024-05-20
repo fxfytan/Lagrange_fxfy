@@ -1,3 +1,9 @@
+---
+layout: page
+title: Services
+permalink: /services
+---
+
 Besides freelance non-fiction and journalism, I also offer the following services:
 
 ## Content writing
