@@ -1,6 +1,6 @@
 ---
 layout: page
-title: welcome to the mud cocoon
+title: About
 permalink: /about
 ---
 Felyx Fayth Tan (they/them) is an independent science writer and researcher based in Pasadena, CA. If they could be an animal, they'd be a lungfish because they like waking up to the sound of rain.
