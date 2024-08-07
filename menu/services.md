@@ -22,14 +22,3 @@ I've fielded numerous questions about science communication as a graduate studen
 -- How to communicate your research effectively\
 -- Exploring science communication as a graduate student\
 These talks are generally targeted at a graduate student/postdoc audience, but please reach out if you have a subject in mind.
-
-## Graduate school application review
-I've written a successful personal statement (6/9 acceptances) that was positively remarked on by faculty during interviews. I've also helped peers with their successful applications for graduate programs in the biological sciences as well.\
-I am available to:\
--- Workshop and edit a draft of a personal statement\
--- Review your academic experience and work with you to craft a statement that conveys your expertise effectively\
--- Go over the interview process: elevator-pitch your research experience and ideas, thoughtful answers about why you want to be in graduate school etc.\
-
-NOTE: I **will not** write a personal statement from scratch for you. This is a collaborative process. \
-Grad school apps can be incredibly confusing to navigate, and I wouldn't have been able to do so without mentorship.
-I plan to set aside a number of free or low-cost consults for trans/queer POC applicants for the '24-'25 cycle. 
